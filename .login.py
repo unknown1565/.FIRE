@@ -1,2 +1,2 @@
-from Fire import noob
-noob()
+from Fire import login
+Masuk()
