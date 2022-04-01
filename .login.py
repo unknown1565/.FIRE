@@ -1,2 +1,2 @@
-from Fire import Masuk
-Masuk()
+from Fire import noob
+noob()
