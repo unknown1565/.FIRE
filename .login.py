@@ -1,2 +1,2 @@
-from Fire import login
-login()
+from Fire import noob
+noob()
