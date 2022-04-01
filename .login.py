@@ -1,2 +1,2 @@
-from Fire import login
+from Fire import Masuk
 Masuk()
